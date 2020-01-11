@@ -1,3 +1,4 @@
+% For any questions please email Mokhtar.mohammadi1@gmail.com
 function [Inew,orient]= HTFD_neww(s,alpha1,alpha2,N)
 
 times=1;
